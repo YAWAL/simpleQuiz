@@ -1,0 +1,6 @@
+{
+  "port": ":8080",
+  "QApath": "questionsAnswers.json",
+  "Qpath": "questions.json",
+  "playersFilePath": "players.json"
+}
