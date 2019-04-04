@@ -1,0 +1,40 @@
+{
+  "questions":[
+    {
+      "question":"What is the capital of the Malta?",
+      "answers":{
+        "a":"Milan",
+        "b":"Valletta",
+        "c":"London",
+        "d":"Paris"
+      }
+    },
+    {
+      "question":"Who was the first chess champion?",
+      "answers":{
+        "a":"Michail Tall",
+        "b":"Johannes Zukertort",
+        "c":"Wilhelm Steinitz",
+        "d":"Volodymyr Klitchko"
+      }
+    },
+    {
+      "question":"When Swedish became Sweden's official language?",
+      "answers":{
+        "a":"1 June 2008",
+        "b":"1 June 2009",
+        "c":"1 July 2007",
+        "d":"1 July 2009"
+      }
+    },
+    {
+      "question":"What is not an OOP principle?",
+      "answers":{
+        "a":"inheritance",
+        "b":"encapsulation",
+        "c":"polyglot",
+        "d":"abstraction"
+      }
+    }
+  ]
+}
